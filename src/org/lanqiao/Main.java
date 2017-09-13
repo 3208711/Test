@@ -15,6 +15,7 @@ public class Main {
 		frame.setVisible(true);
 		System.out.println("change");
 		System.out.println("change");
+		System.out.println("change");
 	}
 
 }
