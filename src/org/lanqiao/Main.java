@@ -13,6 +13,8 @@ public class Main {
 		frame.setSize(1024, 768);
 		frame.show();// 过时
 		frame.setVisible(true);
+		System.out.println("change");
+		System.out.println("change");
 	}
 
 }
