@@ -2,7 +2,7 @@ package org.lanqiao;
 import java.io.File;
 
 /**
- * @author David
+ * @author David1
  * @version 1.0
  */
 public interface AutoCheckExam {
